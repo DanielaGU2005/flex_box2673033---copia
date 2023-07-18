@@ -1,0 +1,42 @@
+.content {
+	background-color: aquamarine;
+	width: 100%;
+	height: 82vh;
+}
+header {
+	background-color: pink;
+	width: 100%;
+	height: 95px;
+}
+main {
+	background-color: aqua;
+	width: 100%;
+	height: 620px;
+	display: flex;
+}
+article {
+	background-color: whitesmoke;
+	width: 28%;
+	height: 620px;
+}
+nav {
+	background-color: rgb(204, 139, 139);
+	width: 45%;
+	height: 620px;
+}
+aside {
+	background-color: rgb(253, 162, 249);
+	width: 28%;
+	height: 620px;
+}
+footer {
+	background-color: greenyellow;
+	width: 100%;
+	height: 95px;
+}
+h1 {
+	text-align: center;
+}
+footer {
+	text-align: center;
+}
